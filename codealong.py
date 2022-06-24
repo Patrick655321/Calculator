@@ -48,3 +48,5 @@ def divide_numbers():
     num2 = _get_number(2)
     result = num1/num2
     _print_result(num1, num2, "/", result)
+
+    add_numbers()
